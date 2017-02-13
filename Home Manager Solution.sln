@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeManager_UI", "HomeManager_UI\HomeManager_UI.csproj", "{9D4200F1-245C-4E2B-8F24-523B62C52C9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeManager_DB", "HomeManager_DB\HomeManager_DB.csproj", "{80551EFE-A441-4F90-85FC-093C455FF8EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeManager_Controler", "HomeManager_Controler\HomeManager_Controler.csproj", "{3D2352AB-2257-459C-B745-3D16596E4C15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D4200F1-245C-4E2B-8F24-523B62C52C9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D4200F1-245C-4E2B-8F24-523B62C52C9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D4200F1-245C-4E2B-8F24-523B62C52C9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D4200F1-245C-4E2B-8F24-523B62C52C9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80551EFE-A441-4F90-85FC-093C455FF8EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80551EFE-A441-4F90-85FC-093C455FF8EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80551EFE-A441-4F90-85FC-093C455FF8EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80551EFE-A441-4F90-85FC-093C455FF8EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D2352AB-2257-459C-B745-3D16596E4C15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D2352AB-2257-459C-B745-3D16596E4C15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D2352AB-2257-459C-B745-3D16596E4C15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D2352AB-2257-459C-B745-3D16596E4C15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
